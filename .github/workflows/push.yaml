@@ -18,7 +18,6 @@ jobs:
         uses: redocly/reunite-push-action@v1
         with:
           organization: 'testing_oleksandr'
-          branch: 'main'
           defaultBranch: 'develop'
           project: 'testrbac2'
           mountPath: '/github'
