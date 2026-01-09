@@ -3,7 +3,7 @@ name: 'Push to Redocly2'
 on:
   push:
     branches:
-      - '**'
+      - 'main'
 
 jobs:
   push:
