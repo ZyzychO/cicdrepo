@@ -1,6 +1,6 @@
 openapi: 3.1.0
 info:
-  title: Test 2
+  title: Test 3
   description: API for managing and manipulating timelines with advanced time travel capabilities.
   version: 1.0.0
   contact:
